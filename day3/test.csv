@@ -1,0 +1,11 @@
+serial_no,name,age,ip_address,malware,mobile_brand
+1,Ali Khan,24,192.168.1.12,Trojan,Samsung
+2,Sara Ahmed,21,192.168.1.15,Spyware,Oppo
+3,Hassan Raza,29,192.168.1.18,Adware,Vivo
+4,Ayesha Malik,22,192.168.1.21,Ransomware,Xiaomi
+5,Bilal Sheikh,31,192.168.1.25,None,Samsung
+6,Zainab Ali,26,192.168.1.30,Trojan,Realme
+7,Umar Farooq,28,192.168.1.34,Spyware,Oppo
+8,Noor Fatima,23,192.168.1.39,Adware,Samsung
+9,Ahmad Hassan,27,192.168.1.44,None,Vivo
+10,Maryam Khan,25,192.168.1.50,Ransomware,Xiaomi
